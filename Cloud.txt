@@ -1,0 +1,184 @@
+Cloud computing
+
+https://www.orbitguru.org/login/index.php
+https://pages.awscloud.com/GLOBAL_NCA_LN_poc-program-2022.html?trk=c70a137f-8341-4214-952e-17e2db3cda12&sc_channel=el&p=ft&z=1
+https://www.aws.training/Certification
+https://docs.google.com/presentation/d/1k16cW2NIAiNy9i3aFVosNq9oGU4-Fm0y6czjBo1dNy4/edit#slide=id.g1238a84a949_0_54
+
+https://www.youtube.com/watch?v=4q9ZNtXplLk
+algoexpert
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+
+AI
+data sccience - bisnis manfaat
+computer vision - akurasi
+natural language processing  - akurasi
+
+
+
+amazon lex == pembuatan chat bot
+aws dee[lens === machine learning
+amazon alexa skills === lebih ke smarthome
+
+webhosting = layanan nyewa server, price fix, spec fix,
+cloud = layanan nyewa server, ada auto scaling, spesifikasi variable
+
+
+
+RDS, EC2,  cloud commputing, vps
+
+public key infrastructure 
+
+bkin akun free tier, di pcec
+
+IOT
+
+kotlin/java untuk andrid, flutter buat program hybrid
+
+frontend basic, html, javascript
+
+ui/ux = ngedesain tampilan
+
+framework php,bahasa pemprogramman
+
+python= automation - ausible
+python = serverleess/integration - aws lamda
+
+KNIME data analityc gk perlu ngoding
+
+bahasa pemprogamman = klo punya logic
+
+c++ cocok untuk mikrokontroler misalnya arduino IOT
+
+motherboard 
+DDR5
+CHANNEL RAM
+
+
+AWS RESPONSIBILITY***
+
+redhat- terkenal di dunia server
+cent os
+fedora
+aws linux
+artix
+ubuntu
+virtualbox
+
+VM
+install windows WSL
+
+GP - SATA  SSD
+Iops - NVMME   SSD
+
+NIC
+cli
+
+IOPS
+
+wired - CAT 5, 5e,
+
+terminal cli
+
+mysql, linux vm
+
+
+data center
+traditional on premises model- punnya sendiri,install configurasi hardware software sendiri
+vendor/cloud model - mennyewa/mengontrak rak server, hardware sama instrastruktur disediakan vendor, 
+
+CLI/full GUI
+command line interface
+graphic user interface
+
+VMware produk untuk 
+upfront investment = DP
+
+
+iaas - butuh kontrol lebih banyak,kita cuma memanage softwarenya 
+saas - kontrolnya berkurang, bisa manage filenya ketika servisnya memberikan untuk mengelolah data center dropbox/googledrive
+faas - serverless, 
+paas - hanya fokus ke aplikasi dan datanya
+
+terminology
+
+keuntungan CC-- 
+
+firewalls, statefull
+security groups, 
+ACL,access control list - stateless
+
+
+statefull- akan mengecek informasi/paket yang masuk
+stateless - informasi/paket yang keluar tidak dicek lagi dan gk bawah informasi (informasi yang keluar)
+security group - hanya bisa allow saja gk bisa di denied
+
+
+SSL/TLS/HTTPS melindungi di transit
+
+
+
+EBS SAN NAS
+
+storage objek,
+blok,
+ file sharing
+
+SQL = data base yang terdiri dari kolom dan baris
+non sql = not only sql, can input foto image video dll
+
+database relational - SQL 
+database non relational - no SQL
+
+VPC
+
+DOCKER FARGATE CONTAINER
+
+storage tempat ngedit file - blok, klo mo ngedit filenya ditiban
+
+
+
+auto scalling RI and on demand
+
+cloud adoption framework
+
+vpc-az 
+az = data center
+vpc = data center yang punya sendiri tapi lokasinya di taruh di az
+
+az tidak mempengaruhi service tapi mempengaruhi region
+
+pemilihan region, 
+
+ACL
+
+IAM - access management
+pki - public key infrastructure
+
+S3 cocok untuk naruh static file
+simple storage service S3
+
+
+SLA = x 365 hari
+
+DNS, static web hosting
+
+download = gk perlu API
+
+ENI ENA EFA
+
+EBS, Root
+
+snapshot - untuk bisa pakai system log
+
+on-demand- langsung  buat
+
+
+
+rocky linux
+
+ppk file
+encoding
+pem file
+
